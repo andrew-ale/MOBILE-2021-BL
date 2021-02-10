@@ -1,0 +1,5 @@
+2. Lakukan pengujian terhadap app anda dengan scenario beberapa penambahan dan pemilihan beberapa item pada daftar kata di recyclerView. Beri catatan dan kesimpulan dari hasil pengujian app anda
+
+--> aplikasi akan memunculkan "kata 1" s/d "kata 20" saat pertama dijalankan
+--> apabila tombol tambah di-klik, aplikasi akan menambahkan kata baru yang bertuliskan "kata [i]" telah ditambahkan
+--> apabila salah satu kata di klik, maka akan muncul tulisan "pernah diklik" setelah kata tersebut
