@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">W04b_27137</string>
+
+    <!-- Main Activity -->
+    <string name="name">Nama</string>
+    <string name="button1">Halaman 1</string>
+    <string name="button2">Halaman 2</string>
+
+    <!-- First Fragment -->
+    <string name="frag_first_edit_hint">Tulisan</string>
+    <string name="btnChangeText">GANTI TULISAN</string>
+
+    <!-- Second Fragment -->
+    <string name="initial_tv">Initial TextView</string>
+</resources>

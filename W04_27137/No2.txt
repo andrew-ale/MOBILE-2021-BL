@@ -1,0 +1,3 @@
+Aplikasi yang dibuat melakukan passing data via intent untuk berpindah dari satu activity ke activity lain.
+
+Pengaplikasian fragment dapat dilakukan dengan 2 cara yaitu via layout cara dengan memanggil fragment di xml suatu activity, atau secara program dengan cara menggunakan frame layout dan memanggil fragment di java class
