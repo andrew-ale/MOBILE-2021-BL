@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">W05_27137</string>
+    <!-- activity_main.xml -->
+    <string name="rBtn_Rect">Rect</string>
+    <string name="rBtn_Oval">Oval</string>
+    <string name="rBtn_Line">Line</string>
+    <string name="rBtn_Path">Path</string>
+</resources>
