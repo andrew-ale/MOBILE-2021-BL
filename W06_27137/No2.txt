@@ -1,0 +1,5 @@
+Pada tutorial 1, app akan membuat semacam animasi ripple dimana saat kita meng-klik satu area, maka akan terbentuk sebuah lingkaran yang akan semakin membesar dan berubah warna. Setelah beberapa detik lingkaran akan mengecil kembali dan animasi akan selesai
+
+Pada tutorial 2, animasi kuda akan bergerak sesuai dengan urutan dan transisi yang ditentukan. Pada tutorial tsb., gambar kuda akan bergerak patah-patah, namun apabila duration pada xml-nya diperkecil, gambar akan bergerak semakin halus
+
+Pada tutorial 3, animasi fling akan bergerak memantul apabila di-klik, sedangkan animasi fling akan berputar apablia di-klik
