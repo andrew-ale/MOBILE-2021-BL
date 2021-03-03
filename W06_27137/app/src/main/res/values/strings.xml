@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">W06_27137</string>
+
+    <!-- Main Activity -->
+    <string name="btnProperty">PROPERTI</string>
+    <string name="btnDrawable">DRAWABLE</string>
+    <string name="btnPhysics">FISIKA</string>
+</resources>
