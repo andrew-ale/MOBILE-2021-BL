@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">W07_27137</string>
+
+    <!-- Main Activity -->
+    <string name="profile">W07_AndrewLeonardi_27137</string>
+    <string name="btnCamera">Open Camera</string>
+    <string name="btnGallery">Open Gallery</string>
+
+    <!-- Camera Activity -->
+    <string name="btn1">Capture Photo</string>
+    <string name="btn2">Capture Video</string>
+
+    <!-- Video Item -->
+    <string name="tvJudul">Judul</string>
+    <string name="tvKeterangan">Keterangan</string>
+    <string name="tvUri">Uri</string>
+
+    <!-- Detail Video -->
+    <string name="tv1">Judul</string>
+    <string name="tv2">Keterangan</string>
+    <string name="tv3">Uri</string>
+    <string name="btnBack">Kembali</string>
+</resources>
