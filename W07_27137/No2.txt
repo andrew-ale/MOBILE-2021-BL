@@ -1,0 +1,3 @@
+Pada aplikasi kamera dan video, untuk mengakses diperlukan akses ke feature camera via xml pada manifest. Intent digunakan untuk memanggil fungsi mengambil gambar dan video
+
+Pada aplikasi galeri, data akan dipassing via adapter untuk kemudian dibaca oleh galeri view setelah menerima data dari res->raw yg dimana datanya akan dipanggil via Linked List
