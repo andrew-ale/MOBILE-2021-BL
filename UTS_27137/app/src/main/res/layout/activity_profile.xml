@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".Profile.ProfileActivity">
+
+    <ImageView
+        android:layout_width="150sp"
+        android:layout_height="150sp"
+        android:src="@drawable/ic_smile" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tv_Profile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NIM       : 00000027137\nNama    : Andrew Leonardi\nKelas     : BL"
+            android:textStyle="bold"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_reference"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginTop="15sp"
+        android:layout_marginStart="15sp"
+        android:text="Referensi :"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/tv_youtube"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginTop="15sp"
+        android:layout_marginStart="15sp"
+        android:text="Youtube :"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginStart="15sp"
+        android:text="- https://www.youtube.com/watch?v=q7TETeyChhw"
+        android:autoLink="web"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginStart="15sp"
+        android:text="- https://www.youtube.com/watch?v=bsXaM4G4D_w&amp;list=PLwQLA73lSe1RfjMzbRLoIkcIJBu25FnVJ"
+        android:autoLink="web"
+        android:textStyle="bold"/>
+
+</LinearLayout>
