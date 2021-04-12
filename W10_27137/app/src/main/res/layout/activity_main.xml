@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/nunito"
+        android:text="Klik pada tombol di bawah ini untuk menuju ke :"
+        android:textAlignment="center"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnAsyncTask"
+        android:layout_width="275dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Tutorial Async Task" />
+
+    <Button
+        android:id="@+id/btnAsyncLoader"
+        android:layout_width="275dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Tutorial Async Task Loader" />
+
+    <Button
+        android:id="@+id/btnIntentService"
+        android:layout_width="275dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Tutorial Intent Service" />
+
+</LinearLayout>
