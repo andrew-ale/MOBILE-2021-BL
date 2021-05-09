@@ -1,6 +1,6 @@
 package id.ac.umn.w13_27137;
 
-import androidx.annotation.Nullable;
+import  androidx.annotation.Nullable;
 import androidx.fragment.app.FragmentActivity;
 
 import android.content.Intent;
@@ -134,6 +134,5 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 gambarMarkerDanShape();
             }
         }
-
     }
 }
